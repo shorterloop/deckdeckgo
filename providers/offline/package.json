@@ -24,7 +24,7 @@
   ],
   "dependencies": {
     "idb-keyval": "^6.2.0",
-    "nanoid": "^3.3.1"
+    "nanoid": "^3.3.17"
   },
   "devDependencies": {
     "@deckdeckgo/editor": "^8.1.0"
